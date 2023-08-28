@@ -1,5 +1,5 @@
 {
-  description = "A flake for bmusb by Sesse";
+  description = "nageru is live video mixing software";
 
   inputs = {       
     nixpkgs.url = "github:nixos/nixpkgs/nixos-23.05";
